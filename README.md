@@ -210,14 +210,7 @@ cd frontend && npm run build
 
 ---
 
-## Environment Variables
 
-| Variable  | Default                                      | Description              |
-|-----------|----------------------------------------------|--------------------------|
-| PORT      | 3001                                         | Backend server port      |
-| MONGO_URI | mongodb://localhost:27017/virtual-cosmos     | MongoDB connection string |
-
----
 
 ## Demo Video
 
