@@ -2,6 +2,8 @@
 
 A real-time 2D virtual office where users move around a shared space and automatically connect to chat when they come close to each other. When they move apart, the chat disconnects.
 
+> 🎥 [Watch Demo on Loom](https://www.loom.com/share/289beb53d29d499296d9e59862cca896)
+
 ---
 
 ## Tech Stack
@@ -213,6 +215,8 @@ cd frontend && npm run build
 
 
 ## Demo Video
+
+[Watch Demo on Loom](https://www.loom.com/share/289beb53d29d499296d9e59862cca896)
 
 The demo video covers:
 - User movement in the 2D office world
